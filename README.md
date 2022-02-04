@@ -24,3 +24,7 @@ This project uses [SQLite](https://www.sqlite.org/index.html) a file-based data 
 ### ORM
 
 This project uses [TypeORM](https://typeorm.io/#/).
+
+
+### End Point : liste des ecritures comptables de l'année 2020 pour le client 8 : localhost:3000/accounting-lines/8/2020-01-01T00:00:00/2021-01-01T00:00:00/find
+### End Point: Somme des écritures comptables de l'année 2020 pour le client 8 : localhost:3000/accounting-lines/8/2020-01-01T00:00:00/2021-01-01T00:00:00/sum
